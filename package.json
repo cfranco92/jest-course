@@ -1,0 +1,14 @@
+{
+  "name": "jest-course",
+  "version": "1.0.0",
+  "description": "Course of jest by Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Cristian Franco",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
